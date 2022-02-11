@@ -1,0 +1,25 @@
+{
+
+  "operation": "create",
+
+  "payload":{
+
+            "TableName":"BookStore",
+
+            "Item":{
+
+            "bookid":10,
+
+            "author":"Robert K",
+
+            "bookname":"Rich Dad & Poor Dad",
+
+            "Location":"USA",
+
+            "State":"Hawaii"
+
+            }
+
+  }
+
+}
